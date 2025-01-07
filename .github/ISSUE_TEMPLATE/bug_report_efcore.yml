@@ -38,3 +38,16 @@ body:
       render: text
     validations:
       required: false
+  - type: textarea
+    id: versions
+    attributes:
+      label: Verbose output
+      placeholder: |-
+        EF Core version:
+        Database provider: (e.g. Microsoft.EntityFrameworkCore.SqlServer)
+        Target framework: (e.g. .NET 9.0)
+        Operating system:
+        IDE: (e.g. Visual Studio 2022 17.4)
+    validations:
+      required: true
+      
