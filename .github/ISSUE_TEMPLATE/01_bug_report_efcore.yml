@@ -1,4 +1,4 @@
-name: Bug in Entity Framework Core
+name: 🐛 Bug in Entity Framework Core
 description: Create a report about something that isn't working
 labels: ["customer-reported"]
 body:
