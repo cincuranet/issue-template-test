@@ -4,7 +4,7 @@ labels: ["customer-reported"]
 body:
   - type: markdown
     attributes:
-      value: |
+      value: |-
         Remember:
 
         * Please check that the [documentation](https://docs.microsoft.com/ef/) does not explain the behavior you are seeing.
@@ -13,7 +13,7 @@ body:
     id: code
     attributes:
       label: Your code
-      description: |
+      description: |-
         To fix any bug we must first reproduce it. To make this possible, please attach a small, runnable project or post a small, runnable code listing that reproduces what you are seeing.
 
         It is often impossible for us to reproduce a bug when working with only code snippets since we have to guess at the missing code. 
