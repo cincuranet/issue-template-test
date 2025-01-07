@@ -4,7 +4,11 @@ labels: ["customer-reported"]
 body:
   - type: markdown
     attributes:
-      value: Test
+      value: |-
+        Remember:
+
+        * Please check that the [documentation](https://docs.microsoft.com/ef/) does not explain the behavior you are seeing.
+        * Please search in both [open](https://github.com/dotnet/efcore/issues) and [closed](https://github.com/dotnet/efcore/issues?q=is%3Aissue+is%3Aclosed) issues to check that your bug has not already been filed.
   - type: textarea
     id: code
     attributes:
