@@ -43,10 +43,10 @@ body:
     attributes:
       label: Provider and version information
       value: |-
-        EF Core version:
+        EF Core version: 
         Database provider: (e.g. Microsoft.EntityFrameworkCore.SqlServer)
         Target framework: (e.g. .NET 9.0)
-        Operating system:
+        Operating system: 
         IDE: (e.g. Visual Studio 2022 17.4)
     validations:
       required: true
