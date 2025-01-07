@@ -21,3 +21,13 @@ body:
       render: csharp
     validations:
       required: true
+  - type: textarea
+    id: stack
+    attributes:
+      label: Stack traces
+      description: |-
+        Include the full exception message and stack trace for any exception you encounter. 
+      placeholder: Your code here.
+      render: text
+    validations:
+      required: false
