@@ -29,3 +29,12 @@ body:
       render: text
     validations:
       required: false
+  - type: textarea
+    id: output
+    attributes:
+      label: Verbose output
+      description: |-
+        Include `--verbose` output when filing bugs about the `dotnet ef` or Package Manager Console tools.
+      render: text
+    validations:
+      required: false
