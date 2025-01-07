@@ -1,4 +1,4 @@
-name: Bug in Microsoft.Data.Sqlite
+name: 🐛 Bug in Microsoft.Data.Sqlite
 description: Create a report about something that isn't working
 labels: ["area-adonet-sqlite", "customer-reported"]
 body:
