@@ -41,8 +41,8 @@ body:
   - type: textarea
     id: versions
     attributes:
-      label: Verbose output
-      placeholder: |-
+      label: Provider and version information
+      value: |-
         EF Core version:
         Database provider: (e.g. Microsoft.EntityFrameworkCore.SqlServer)
         Target framework: (e.g. .NET 9.0)
