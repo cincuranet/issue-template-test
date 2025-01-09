@@ -1,5 +1,5 @@
 name: ❓ Ask a question
-description: Ask a question about Entity Framework Core or Microsoft.Data.Sqlite
+description: Ask a question about Entity Framework Core or Microsoft.Data.Sqlite.
 labels: ["customer-reported"]
 body:
   - type: markdown

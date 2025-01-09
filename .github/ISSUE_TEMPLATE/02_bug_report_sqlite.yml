@@ -1,5 +1,5 @@
 name: 🐛 Bug in Microsoft.Data.Sqlite
-description: Create a report about something that isn't working
+description: Create a report about something that isn't working in Microsoft.Data.Sqlite.
 labels: ["area-adonet-sqlite", "customer-reported"]
 body:
   - type: markdown

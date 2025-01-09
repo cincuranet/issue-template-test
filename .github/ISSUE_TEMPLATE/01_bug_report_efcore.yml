@@ -1,5 +1,5 @@
 name: 🐛 Bug in Entity Framework Core
-description: Create a report about something that isn't working
+description: Create a report about something that isn't working in Entity Framework Core.
 labels: ["customer-reported"]
 body:
   - type: markdown
